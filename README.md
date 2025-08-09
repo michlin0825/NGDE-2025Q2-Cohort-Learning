@@ -1,4 +1,4 @@
-# NGDE 2025Q2 Cohort Learning
+# NGDE 2025Q3 Cohort Learning
 
 Learning of the skill checks from the Next Generation Developer Experience (NGDE) cohort program - Q2 2025.
 
