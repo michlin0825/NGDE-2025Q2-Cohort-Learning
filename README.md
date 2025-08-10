@@ -15,7 +15,7 @@ Learning of the skill checks from the Next Generation Developer Experience (NGDE
 
 ## 📅 Timeline
 
-**Program Duration**: Q2 2025  
+**Program Duration**: Q3 2025  
 **Format**: Weekly structured learning modules
 
 ---
